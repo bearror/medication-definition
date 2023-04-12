@@ -24,6 +24,10 @@
 4. Wire up the CDS Hooks feedback endpoint, and figure out all the housekeeping
    (e.g. observability) for running these on a serverless platform. _(Remember
    to include the necessary regulatory disclaimers...)_
+5. Oh yeah, and since Deno Deploy supports WASM, this'll be a good chance to
+   finally bite the bullet and get started with Rust. This might have to wait
+   until I get to clinical reasoning, though, since FHIRPath and ELM execution
+   are actually valuable targets. Same goes for supporting SDC operations.
 
 ---
 
