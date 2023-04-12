@@ -28,6 +28,12 @@
    finally bite the bullet and get started with Rust. This might have to wait
    until I get to clinical reasoning, though, since FHIRPath and ELM execution
    are actually valuable targets. Same goes for supporting SDC operations.
+   Performance will be quite the rabbit hole to explore in general. FHIR
+   resources are enormous, so it may well make sense to use Protocol Buffers. It
+   may turn out that running an executor on a JSON AST (i.e. CQL ELM) is just
+   too cumbersome compared to writing the libraries in a native language (or
+   even TS). There is a trade-off to make, even if I really appreciate the
+   target of making clinical reasoning entirely content-based.
 
 ---
 
