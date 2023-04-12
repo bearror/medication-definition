@@ -1,0 +1,77 @@
+PAKKAUSNRO;VNRNRO;PAKKAUSKOKO;KERROIN;KOKO;YKSIKKO;LAITE;ASTIATUN;KAUPPAANTULOPVM;KAUPASTAPOISPVM;RESEPTISTATUS;LAAKENIMI;VAHVUUS;LAAKEMUOTONIMI;LAAKEMUOTOTUN;HALTIJA;HUM;VET;RINNAKKAISTUONTI;VAIKAINELKM;ATCKOODI;ATCTUN;DDD;DDDYKSIKKO;HUUME;PSYKOLUOKITUS;LIIKENNEVAARA;EHTOKOODI;MYYNTILUPANRO;EUMYYNTILUPANRO;PAATOSPVM;PAATTYMISPVM;TILANIMI;TILAKOODI;MUUTOS;EDELLINEN_VNRNRO;SUBSTITUUTIORYHMA;KAUPAN;EDELLINEN_LAAKENIMI
+103840;;100;1;100.00;kpl;;;;;R;DAPSON "SCANPHARM";50 mg;tabletti;173;Scanpharm A/S;1;0;0;1;J04BA02;2585;50;mg;;;0;;24396;;2016-10-10;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;DAPSON
+103846;;28;;;;;;;;R;EPHEDRINE HYDROCHLORIDE;30 mg;tabletti;173;CP Pharmaceuticals Ltd.;1;0;0;1;R03CA02;4058;50;mg;;;0;;24403;;2001-06-05;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+103907;;18 ml + 2 ml;;;;;17;;;R;KESKOSTIPPA ILMAN D-VITAMIINIA;;tipat;175;Orion Corporation Orion Pharma;1;0;0;4;A11JC;538;1;ED;;;0;;24424;;2000-09-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+103910;;30;1;30.00;kpl;;;;;R;MYSOLINE;250 mg;tabletti;173;Lab Farm. SIT s.r.l.;1;0;0;1;N03AA03;3342;1.25;g;;;0;;24427;;2003-10-30;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+103920;;100;1;100.00;kpl;;;;;R;PETNIDAN;250 mg;kapseli, pehme‰;251;Desitin Arzneimittel GmbH;1;0;0;1;N03AD01;3357;1.25;g;;;0;;24436;;2016-10-10;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+103998;;30 x 0.5 ml;30;0.50;ml;;;;;R;S2 RACEPINEPHRINE;2.25 %;inhalaationeste, liuos;510;Nephron Pharmaceuticals Corporation;1;0;0;1;R03AA01;4005;20;mg;;;0;;24448;;2006-04-06;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+142605;;2 x 4 ml;;;;;;;;R;VIPERATAB;100 mg / 4 ml;infuusiokonsentraatti;40;MicroPharm;1;0;0;1;J06AA03;2627;;;;;0;M2A;29849;;2011-05-10;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+151815;;30 ml;1;30.00;ml;;;;;R;NIFEREX;30 mg/ml;tipat, liuos;267;Aesica Pharmaceuticals GmbH;1;0;0;1;B03AA01;727;0.2;g;;;0;;30850;;2012-06-27;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;NIFEREX UCB PHARMA
+151831;;100;1;100.00;kpl;;;;;R;AMANTADIN-RATIOPHARM;100 mg;tabletti, kalvop‰‰llysteinen;235;Merckle GmbH;1;0;0;1;N04BB01;3407;0.2;g;;;0;;30853;;2012-06-28;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+155406;;1;;;;;;;;R;VERORAB;;injektiokuiva-aine ja liuotin, suspensiota varten;465;Sanofi Pasteur S.A.;1;0;0;1;J07BG01;2724;;;;;0;;31271;;2012-12-19;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+156983;;50 ml;;;;;;;;R;ENFAMIL FER-IN-SOL;15 mg Fe 2+/ml;tipat;175;Mead Johnson & Company, LLC;1;0;0;1;B03AA07;733;0.2;g;;;0;;31587;;2013-05-28;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+160484;;1 + solv.;;;;;;;;R;LENTOCILIN S 1200;1 200 000 UI / 4 ml;injektiokuiva-aine ja liuotin, suspensiota varten;465;Laboratorios Atral S.A.;1;0;0;2;J01CE08;2362;3.6;g;;;0;;32002;;2013-12-18;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+165144;;50;1;50.00;kpl;;;;;R;AMPHO-MORONAL;10 mg;imeskelytabletti;38;mibe GmbH;1;0;0;1;A01AB04;12;40;mg;;;0;;32643;;2014-09-15;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;AMPHO-MORONAL LUTSCHTABLETTEN
+165145;;100;1;100.00;kpl;;;;;R;AMPHO-MORONAL;10 mg;imeskelytabletti;38;mibe GmbH;1;0;0;1;A01AB04;12;40;mg;;;0;;32643;;2014-09-15;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;AMPHO-MORONAL LUTSCHTABLETTEN
+165558;;100;;;;;;;;R;GLAUPAX;;tabletti;173;Artesan Pharma GmbH & Co. KG;1;0;0;1;S01EC01;4431;0.75;g;;;0;;32692;;2014-09-26;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+165563;;30;;;;;;;;R;GLAUPAX;;tabletti;173;Artesan Pharma GmbH & Co. KG;1;0;0;1;S01EC01;4431;0.75;g;;;0;;32692;;2014-09-26;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+166618;;8 g;1;8.00;g;;;;;R;MONURIL;3000 mg;annosrakeet;8;Zambon S.p.A.;1;0;0;1;J01XX01;9905;3;g;;;0;;32874;;2020-05-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;MONURIL "ZAMBON"
+168533;;100;1;100.00;kpl;;;;;R;RENAVIT "RENACARE";;tabletti, p‰‰llystetty;234;RenaCare NephroMed GmbH;1;0;0;9;A11EB;514;;;;;0;;33195;;2015-03-09;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+169407;;4 ml;1;4.00;ml;;;;;R;TARDOCILLIN 1200;1200 000 U / 4 ml;injektioneste, suspensio;245;Infectopharm Arzneimittel und Consilium GmbH;1;0;0;2;J01CE08;2362;3.6;g;;;0;;33357;;2015-04-21;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+174403;;80 g;1;80.00;g;;;;;R;DAKTARIN ORAL GEL;20 mg/g;oraaligeeli;334;Janssen Pharmaceutical N.V.;1;0;0;1;A01AB09;17;0.2;g;;;0;;34076;;2016-03-04;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+174404;;15 g;1;15.00;g;;;;;R;DAKTARIN SUGAR FREE ORAL GEL;2 %;oraaligeeli;334;Janssen Pharmaceutical N.V.;1;0;0;1;A01AB09;17;0.2;g;;;0;;34077;;2016-03-04;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+174984;;4;;;;;;;;R;YOMESAN;500 mg;purutabletti;139;BAYER AG;1;0;0;1;P02DA01;3864;2;g;;;0;;34188;;2016-04-26;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+175677;;2 ml;;;;;;;;R;IMOGAM RAGE;150 UI/ml;injektioneste;56;Sanofi Pasteur S.A.;1;0;0;1;J06BB05;2640;;;;;0;;34332;;2016-06-15;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+179636;;100;1;100.00;kpl;;;;;R;MYLEPSINUM;250 mg;tabletti;173;Teva GmbH;1;0;0;1;N03AA03;3342;1.25;g;;;0;;34972;;2017-03-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;MYLEPSINUM "TEVA"
+179637;;200;1;200.00;kpl;;;;;R;MYLEPSINUM;250 mg;tabletti;173;Teva GmbH;1;0;0;1;N03AA03;3342;1.25;g;;;0;;34972;;2017-03-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;MYLEPSINUM "TEVA"
+182081;;1 ml;;;;;;;;R;TETAGAM P;250 IU/ml;injektioneste;56;CSL Behring GmbH;1;0;0;1;J06BB02;2637;;;;;0;;35451;;2017-08-09;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+186380;;3.5 ml;;;;;;;;R;CONDYLINE 0.5% W/V CUTANEOUS SOLUTION;0.5 %;liuos iholle;206;Takeda Austria GmbH;1;0;0;1;D06BB04;1667;;;;;0;;36298;;2018-08-16;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+186387;;6 x 50 ml;;;;;;;;R;BAT, BOTULISM ANTITOXIN HEPTAVALENT (A,B,C,D,E,F,G)-EQUINE;;injektioneste;56;Emergent BioSolutions Inc.;1;0;0;1;J06AA04;2628;;;;;0;;36300;;2018-08-15;2024-02-29;M‰‰r‰aikainen erityislupa;11;;;;0;
+187630;;30 tabl.;1;30.00;kpl;;;;;R;MODAMIDE;5 mg;tabletti;173;Laboratoire Bailly Creat;1;0;0;1;C03DB01;1199;10;mg;;;0;;36578;;2018-12-07;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+188079;;250 ml;1;250.00;ml;;;;;R;PETNIDAN;250 mg / 5 ml (50 mg/ml);oraaliliuos;210;Desitin Arzneimittel GmbH;1;0;0;1;N03AD01;3357;1.25;g;;;0;;36645;;2019-01-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+188136;;100 ml;;;;;;;;R;FLAGYL;200 mg / 5 ml (40 mg/ml);oraalisuspensio;211;Unither Liquid Manufacturing;1;0;0;1;P01AB01;3771;2;g;;;0;;36655;;2019-01-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+188137;;80 ml;;;;;;;;R;FURANTOINA;10 mg/ml;oraalisuspensio;211;Laboratorios ERN, S.A.;1;0;0;1;J01XE01;2168;0.2;g;;;0;;36656;;2019-01-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+189128;;5 x 3 ml;;;;;;;;R;HYPURIN PORCINE ISOPHANE;100 IU/ml;injektioneste, suspensio;245;CP Pharmaceuticals Ltd.;1;0;0;1;A10AC03;439;40;U;;;0;;36844;;2019-02-28;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+189129;;5 x 3 ml;;;;;;;;R;HYPURIN PORCINE NEUTRAL;100 IU/ml;injektioneste, liuos;244;CP Pharmaceuticals Ltd.;1;0;0;1;A10AB03;433;40;U;;;0;;36845;;2019-02-28;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+189153;;10 ml;;;;;;;;R;HYPURIN PORCINE ISOPHANE;100 IU/ml;injektioneste, suspensio;245;CP Pharmaceuticals Ltd.;1;0;0;1;A10AC03;439;40;U;;;0;;36844;;2019-02-28;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+189523;;24;;;;;;;;R;EFEDRINA LEVEL COMPRIMIDOS;50 mg;tabletti;173;Laboratorios ERN, S.A.;1;0;0;1;R03CA02;4058;50;mg;;;0;;36929;;2019-04-03;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+192357;;3 ml;1;3.00;ml;;;;;R;WARTICON "PHOENIX LABS";5 mg/ml;liuos iholle;206;Famar Nederland B.V.;1;0;0;1;D06BB04;1667;;;;;0;;37408;;2019-09-12;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+193047;;20 x 0.5 ml;20;0.50;ml;;;;;R;MINIMS FLUORESCEIN SODIUM 2% W/V;2 %;silm‰tipat, liuos, kerta-annospakkaus;655;Laboratoire Chauvin;1;0;0;1;S01JA01;4491;;;;;0;;37508;;2019-10-28;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+193679;;1 kpl + liuotin;;;;;;;;R;FARMAPROINA;1 200 000 U.I.;injektiokuiva-aine ja liuotin, liuosta varten;240;Laboratorio Reig JofrÈ S.A.;1;0;0;1;J01CE09;2363;0.6;g;;;0;;37643;;2019-11-21;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+195387;;250 ml;;;;;;;;R;URSOFALK;50 mg/ml;oraalisuspensio;211;Dr. Falk Pharma GmbH;1;0;0;1;A05AA02;251;0.75;g;;;0;;37996;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195433;;100 tabl.;;;;;;;;R;AMISULPRID HOLSTEN;400 mg;tabletti, kalvop‰‰llysteinen;235;Holsten Pharma GmbH;1;0;0;1;N05AL05;3499;0.4;g;;;0;;38011;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195435;;100 tabl.;;;;;;;;R;SOLIAN;100 mg;tabletti;173;Sanofi-Aventis Deutschland GmbH;1;0;0;1;N05AL05;3499;0.4;g;;;0;;38012;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195436;;100 tabl.;;;;;;;;R;SOLIAN;400 mg;tabletti, kalvop‰‰llysteinen;235;Sanofi-Aventis Deutschland GmbH;1;0;0;1;N05AL05;3499;0.4;g;;;0;;38013;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195440;;50 tabl.;;;;;;;;R;LARGACTIL "SANOFI-AVENTIS";25 mg;tabletti, kalvop‰‰llysteinen;235;Famar Lyon;1;0;0;1;N05AA01;3422;0.3;g;;;0;;38018;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195441;;30 tabl.;;;;;;;;R;LARGACTIL "SANOFI-AVENTIS";100 mg;tabletti, kalvop‰‰llysteinen;235;Famar Lyon;1;0;0;1;N05AA01;3422;0.3;g;;;0;;38019;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195442;;20 tabl.;;;;;;;;R;LARGACTIL "TEOFARMA";100 mg;tabletti, kalvop‰‰llysteinen;235;Teofarma S.r.l.;1;0;0;1;N05AA01;3422;0.3;g;;;0;;38020;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195443;;25 tabl.;;;;;;;;R;LARGACTIL "TEOFARMA";25 mg;tabletti, kalvop‰‰llysteinen;235;Teofarma S.r.l.;1;0;0;1;N05AA01;3422;0.3;g;;;0;;38021;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195444;;100 tabl.;;;;;;;;R;TEVA-CHLORPROMAZINE;50 mg;tabletti;173;Teva Canada Ltd.;1;0;0;1;N05AA01;3422;0.3;g;;;0;;38022;;2020-05-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+195451;;10 x 10 ml;;;;;;;;R;ACETYLCYSTEINE INJECTION;200 mg/ml;infuusioneste, liuos;253;Panpharma GmbH;1;0;0;1;V03AB23;4616;;;;;0;M2A;38024;;2020-04-20;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+196817;;200 ml;1;200.00;ml;;;;;R;SUXINUTIN;50 mg/ml;oraaliliuos;210;Delpharm OrlÈans;1;0;0;1;N03AD01;3357;1.25;g;;;0;;38296;;2020-08-11;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+197689;;40 g;1;40.00;g;;;;;R;DAKTAR 2% MUNDGEL;2 %;oraaligeeli;334;Johnson & Johnson GmbH;1;0;0;1;A01AB09;17;0.2;g;;;0;;;;2020-11-10;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+197950;;1 x 3 ml;1;3.00;ml;;;;;R;WARTICON;5 mg/ml;liuos iholle;206;Delpharm Bladel B.V.;1;0;0;1;D06BB04;1667;;;;;0;;;;2020-11-16;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+198779;;100 ml;1;100.00;ml;;;;;R;FLAGYL;200 mg/5 ml;oraalisuspensio;211;Unither Liquid Manufacturing;1;0;0;1;P01AB01;3771;2;g;;;0;;;;2021-02-03;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+201079;;100;1;100.00;kpl;;;;;R;DIAMOX;250 mg;tabletti;173;Millmount Healthcare Ltd.;1;0;0;1;S01EC01;4431;0.75;g;;;0;;;;2021-07-26;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+201236;;6 x 4 ml;6;4.00;ml;;;;;R;TARDOCILLIN 1200;1200 000 U / 4 ml;injektioneste, suspensio;245;Infectopharm Arzneimittel und Consilium GmbH;1;0;0;2;J01CE08;2362;3.6;g;;;0;;33357;;2015-04-21;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+201386;;6 tabl.;1;6.00;kpl;;;;;R;VERMOX;100 mg;tabletti;173;Lusomedicamenta Sociedade TÈcnica FarmacÍutica SA;1;0;0;1;P02CA01;3842;0.2;g;;;0;;;;2021-09-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+201826;;10 x 1.5 MIU;;;;;;;;R;PROKAIN PENICILIN G BBP 1,5 MIU;1500000 IU;injektiokuiva-aine, suspensiota varten;243;AtB Pharma, s.r.o.;1;0;0;1;J01CE09;2363;0.6;g;;;0;;;;2021-09-08;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+204033;;30;1;30.00;kpl;;;;;R;AMANTADIN STADA;100 mg;tabletti;173;Stada Arzneimittel AG;1;0;0;1;N04BB01;3407;0.2;g;;;0;;;;2022-02-04;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+204034;;100;1;100.00;kpl;;;;;R;AMANTADIN STADA;100 mg;tabletti;173;Stada Arzneimittel AG;1;0;0;1;N04BB01;3407;0.2;g;;;0;;;;2022-02-04;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+204035;;100;1;100.00;kpl;;;;;R;AMANTADIN HEXAL;100 mg;tabletti, kalvop‰‰llysteinen;235;Salutas Pharma GmbH;1;0;0;1;N04BB01;3407;0.2;g;;;0;;;;2022-02-04;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+204628;;10 ml;1;10.00;ml;;;;;R;DIPHTHERIA ANTITOXIN I.P.;1000 IU/ml;injektioneste;56;Premium Serums&Vaccines Pvt.Ltd.;1;0;0;1;J06AA01;2625;;;;;0;M12;;;2022-03-14;2024-02-29;M‰‰r‰aikainen erityislupa;11;;;;0;
+205960;;2 mg;1;1.00;kpl;;;;;R;CATHFLO ACTIVASE;2 mg;injektiokuiva-aine, liuosta varten;242;Genentech Inc.;1;0;0;1;B01AD02;673;0.1;g;;;0;;;;2022-06-14;2024-01-15;M‰‰r‰aikainen erityislupa;11;;;;0;
+205961;;10 x 2 mg;10;1.00;kpl;;;;;R;CATHFLO ACTIVASE;2 mg;injektiokuiva-aine, liuosta varten;242;Genentech Inc.;1;0;0;1;B01AD02;673;0.1;g;;;0;;;;2022-06-14;2024-01-15;M‰‰r‰aikainen erityislupa;11;;;;0;
+206988;;28 tabl.;1;28.00;kpl;;;;;R;DAPSON TILLOMED;50 mg;tabletti;173;MIAS Pharma Limited;1;0;0;1;J04BA02;2585;50;mg;;;0;;;;2022-09-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+206989;;50 tabl.;1;50.00;kpl;;;;;R;DAPSON TILLOMED;50 mg;tabletti;173;MIAS Pharma Limited;1;0;0;1;J04BA02;2585;50;mg;;;0;;;;2022-09-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+206990;;100 tabl.;1;100.00;kpl;;;;;R;DAPSON TILLOMED;50 mg;tabletti;173;MIAS Pharma Limited;1;0;0;1;J04BA02;2585;50;mg;;;0;;;;2022-09-01;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+207091;;50 mg + 10 ml;1;1.00;kpl;;;;;R;TNKASE;50 mg;injektiokuiva-aine ja liuotin, liuosta varten;240;Genentech Inc.;1;0;0;1;B01AD11;11518;40;mg;;;0;;;;2022-08-25;2024-01-15;M‰‰r‰aikainen erityislupa;11;;;;0;
+207815;;100 tabl.;1;100.00;kpl;;;;;R;CLONAZEPAM TABLETS, USP;0.5 mg;tabletti;173;Intas Pharmaceuticals Limited;1;0;0;1;N03AE01;3362;8;mg;;Z;1;;;;2022-10-12;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+207818;;100 tabl.;1;100.00;kpl;;;;;R;CLONAZEPAM TABLETS, USP;2 mg;tabletti;173;Intas Pharmaceuticals Limited;1;0;0;1;N03AE01;3362;8;mg;;Z;1;;;;2022-10-12;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+207988;;50 tabl.;1;50.00;kpl;;;;;R;RIVOTRIL;0.5 mg;tabletti;173;CPS Cito Pharma Services GmbH;1;0;0;1;N03AE01;3362;8;mg;;Z;1;;;;2022-11-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+207989;;100 tabl.;1;100.00;kpl;;;;;R;RIVOTRIL;2 mg;tabletti;173;CPS Cito Pharma Services GmbH;1;0;0;1;N03AE01;3362;8;mg;;Z;1;;;;2022-11-01;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+208342;;25;1;25.00;ml;;;;;R;MULTIVITAMINDROPPAR UNIMEDIC;;tipat, liuos;267;Unimedic AB;1;0;0;9;A11BA;9322;1;ED;;;0;;;;2022-11-23;2023-08-31;M‰‰r‰aikainen erityislupa;11;;;;0;
+209409;;16;1;16.00;kpl;;;;;R;BETAMOX PLUS;875 mg + 125 mg;tabletti, p‰‰llystetty;234;LaboratÛrios Atral, S.A.;1;0;0;2;J01CR02;11609;1.7143;ED;;;0;;;;2023-02-06;2023-06-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+209874;;100 tabl.;1;100.00;kpl;;;;;R;CLONAZEPAM AUDEN TABLETS;500 mikrog;tabletti;173;Actavis Group PTC ehf;1;0;0;1;N03AE01;3362;8;mg;;Z;1;;;;2023-03-02;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+209889;;100 tabl.;1;100.00;kpl;;;;;R;CLONAZEPAM AUDEN TABLETS;2 mg;tabletti;173;Actavis Group PTC ehf;1;0;0;1;N03AE01;3362;8;mg;;Z;1;;;;2023-03-02;2023-04-30;M‰‰r‰aikainen erityislupa;11;;;;0;
+209891;;2 ml;1;2.00;ml;;;;;R;BERIRAB P;300 IU/2 ml;injektioneste, liuos, esit‰ytetty ruisku;66;CSL Behring GmbH;1;0;0;1;J06BB05;2640;;;;;0;;;;2023-03-01;2024-02-29;M‰‰r‰aikainen erityislupa;11;;;;0;
