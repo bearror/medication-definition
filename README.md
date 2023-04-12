@@ -13,10 +13,10 @@
    medication definition and clinical reasoning modules.
 2. Create a basic CDS Hooks service using the open data for supply shortages
    and/or interchangeable medicinal products. This marks a good spot to explore
-   good abstractions for getting the auth right. Optimally, go for solutions
-   that result in verifiable formal constraints. That is, it should be possible
-   to have acceptance tests ensuring that the conformance language defined in
-   the CDS Hooks spec is actually followed. (Constraints should be explicit!)
+   abstractions for getting the auth right. Optimally, go for solutions that
+   result in verifiable formal constraints. That is, include acceptance tests
+   for ensuring that the conformance language defined in the CDS Hooks spec is
+   actually followed. (Constraints should be explicit!)
 3. Investigate the Meds75+ database and how it might be transformed into
    `MedicationKnowledge` and/or `ClinicalUseDefinition` resources. This marks
    the obvious point-of-interest for clinical reasoning and clinical decision
