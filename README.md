@@ -11,8 +11,8 @@
    It's probably not worth it to split everything into products, packages and
    items — given that I'm far more interested in the intersection of the
    medication definition and clinical reasoning modules.
-2. Create a basic CDS Hooks service on using the open data for supply shortages
-   and/or interchangeable medicinal products. This marks a good place to explore
+2. Create a basic CDS Hooks service using the open data for supply shortages
+   and/or interchangeable medicinal products. This marks a good spot to explore
    good abstractions for getting the auth right. Optimally, go for solutions
    that result in verifiable formal constraints. That is, it should be possible
    to have acceptance tests ensuring that the conformance language defined in
