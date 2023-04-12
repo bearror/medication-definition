@@ -3,6 +3,15 @@
 > **Warning** This repository is for technical demonstration only. **Medical use
 > is prohibited.**
 
+## TODO
+
+Explore which resources should be generated from the raw data. There's a couple
+of potentially interesting `CodeSystem` resources, and the various files could
+be condensed into actual `MedicinalProductDefinition` resources. It's probably
+not worth it to split everything into products, packages and items — given that
+I'm far more interested in the intersection of the medication definition and
+clinical reasoning modules.
+
 ---
 
 ## Licenses
