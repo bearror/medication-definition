@@ -1,8 +1,15 @@
-export function add(a: number, b: number): number {
-  return a + b;
+import { serve } from "https://deno.land/std@0.182.0/http/server.ts";
+
+const SERVICE_DISCOVERY_ROUTE = new URLPattern({ pathname: "/cds-services" });
+
+function handler(req: Request): Response {
+  const match = SERVICE_DISCOVERY_ROUTE.test(req.url);
+
+  if (match) {
+    return Response.json({ services: [] });
+  }
+
+  return new Response("Not found", { status: 404 });
 }
 
-// Learn more at https://deno.land/manual/examples/module_metadata#concepts
-if (import.meta.main) {
-  console.log("Add 2 + 3 =", add(2, 3));
-}
+serve(handler);
